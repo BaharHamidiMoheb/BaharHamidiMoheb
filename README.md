@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Bahar 👋
 
-<!--
-**BaharHamidiMoheb/BaharHamidiMoheb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a **WordPress Developer & Front-End Developer**!!
 
-Here are some ideas to get you started:
+🔌 I build **custom WordPress plugins & solutions**
+⚛️ I’m currently learning **React & TypeScript**
+🚀 I love building **fast, accessible & SEO-friendly websites**
+🌱 Exploring **modern web development & software engineering**
+⚡ Fun fact: I love learning new things!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat\&logo=google-chrome\&logoColor=white)](YOUR_WEBSITE)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/BaharHamidiMoheb)
+
+### Languages & Tools:
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&perline=5" />
+</p>
+
+**WordPress Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,php,mysql&perline=3" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma&perline=5" />
+</p>
